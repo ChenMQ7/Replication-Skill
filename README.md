@@ -255,7 +255,7 @@ Those cases used earlier instruction versions and paper-specific decisions. Full
 
 For the local candidate, 34 helper tests passed on macOS with Python 3.10.8 and 3.12.14. The 63 template copies match the main specification; skill-format, YAML and static package checks passed. Tests include refusal to overwrite run folders, malformed-ledger handling, scope partitions and numerical boundaries.
 
-Fresh-agent behavioral tests, a current-version run through real CP0 to CP7 decisions, cross-machine checks and GitHub CI execution remain pending. See [release checks](docs/release-checks.md) and [release.json](release.json) for the acceptance boundary. Complete replication of an arbitrary paper is not guaranteed.
+The initial [GitHub CI run](https://github.com/ChenMQ7/Replication-Skill/actions/runs/36328225398) passed. Fresh-agent behavioral tests, a current-version run through real CP0 to CP7 decisions, and cross-machine statistical-environment checks remain pending. See [release checks](docs/release-checks.md) and [release.json](release.json) for the acceptance boundary. Complete replication of an arbitrary paper is not guaranteed.
 
 ## Common questions
 

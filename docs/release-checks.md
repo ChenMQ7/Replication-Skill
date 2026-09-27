@@ -15,7 +15,7 @@ The repository check covers metadata, embedded-template agreement, local Markdow
 
 The tests exercise helper behavior, including directory preservation, explicit reconstruction restrictions, template drift, malformed ledgers, duplicate target IDs, eligibility references, scope partitions, zero denominators and decimal-boundary cases. Fixture values are unit-test inputs, with no claim to represent a published paper.
 
-The GitHub Actions workflow runs these checks on the configured Python versions. Until the repository is pushed and a workflow run succeeds, CI execution remains unverified. Local checks do not establish a fresh statistical-environment restore or cross-platform support.
+The GitHub Actions workflow runs these checks on the configured Python versions. The initial [CI run](https://github.com/ChenMQ7/Replication-Skill/actions/runs/36328225398) passed on Ubuntu with Python 3.10 and 3.12. These helper and structural checks do not establish a fresh statistical-environment restore or cross-platform support for paper analyses.
 
 ## Independent acceptance tests
 
