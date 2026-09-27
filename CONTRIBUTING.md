@@ -1,6 +1,6 @@
 # Contributing
 
-Report a concrete problem with the skill version, host, affected phase, expected behavior and observed behavior. Attach the smallest shareable evidence that explains it. Remove credentials, personal paths and restricted data. Do not attach author code from a quarantined run.
+Report a concrete problem with the skill version, host, affected phase, expected behavior and observed behavior. Attach the smallest shareable evidence that explains it. Remove credentials, personal paths and restricted data.
 
 For a change, explain the case or test that motivates it. Edit `skills/applied-empirical-replication-v3/SKILL.md` first when a rule or schema changes. Then regenerate the template copies:
 
@@ -16,4 +16,4 @@ Keep documentation, comments, commit messages and pull requests in English. Pref
 
 Do not silently broaden research scope, change numerical thresholds or treat a partial historical case as a full replication. Describe any migration effect on existing runs. Changes to the skill do not rewrite frozen run evidence.
 
-Contribution review checks consistency with the MIT License and the terms of any third-party material. Include external code or datasets only when their provenance and redistribution terms are clear.
+Contribution review checks consistency with the License and the terms of any third-party material. Include external code or datasets only when their provenance and redistribution terms are clear.
