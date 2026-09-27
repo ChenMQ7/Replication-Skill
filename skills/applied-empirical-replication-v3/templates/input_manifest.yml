@@ -1,0 +1,38 @@
+paper:
+  title:
+  authors:
+  year:
+  venue:
+  doi_or_url:
+  local_path:
+  edition_or_version:
+inputs:
+  code_paths: []
+  data_paths: []
+  appendix_paths: []
+  documentation_paths: []
+  existing_output_paths: []
+access:
+  code_status:
+  data_status:
+  restrictions:
+scope:
+  main_text_empirical_results: true
+  appendix_empirical_results: true
+  approved_exclusions: []
+code_access:
+  policy:
+  independent_reconstruction_requested:
+  request_evidence:
+  read_allowed:
+  execute_allowed:
+  summarize_allowed:
+  prior_code_exposure:
+  route_selected:
+  replacement_code_required:
+environment:
+  expected_software: []
+  external_dependencies: []
+reviewer:
+  name:
+  role:

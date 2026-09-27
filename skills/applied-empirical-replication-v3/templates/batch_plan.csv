@@ -1,0 +1,1 @@
+batch_id,batch_type,purpose,result_families_or_upstream_role,allowed_inputs,commands,expected_outputs,expected_runtime,seed_policy,risk,validation_destination,approval_status,notes

@@ -1,0 +1,23 @@
+# Code Reconstruction Design
+
+- Code state and reason for Route B:
+- Code-access policy and independent-reconstruction request evidence:
+- Code read or executed:
+- Prior author-code exposure and independence claim boundary:
+- Replacement language:
+- Allowed data files:
+- Forbidden files:
+- Paper specification sources:
+- Result families:
+- Reconstruction route per family:
+- Measurement construction: item codes, fitting population, centering/scaling, sign, normalization and reuse/refitting:
+- Sample and transformation rules: full-precision boundaries, quantile/tie conventions and retained row masks:
+- Fitted plots: outcome direction, units, conditioning, bins/grid and uncertainty:
+- Analytical unit, linked entities and covariance/cluster rule; point/inference eligibility boundaries:
+- Primary specification versus approved diagnostics and their claim boundaries:
+- Target values allowed inside code:
+- Validation outputs:
+- All-target planned-output or open/blocked-reason reconciliation:
+- Expected caveats:
+- Not reconstructable without author code:
+- Human approval required before Phase 5:

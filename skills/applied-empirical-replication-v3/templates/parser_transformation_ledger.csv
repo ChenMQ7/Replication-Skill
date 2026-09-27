@@ -1,0 +1,1 @@
+event_id,batch_id,script,input_artifact,output_artifact,operation_type,variable_or_rows_affected,rule_or_code,evidence_or_rationale,record_count_before,record_count_after,target_ids_affected,review_required,notes

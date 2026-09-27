@@ -1,0 +1,13 @@
+paper_results:
+  - result_id:
+    table_or_figure:
+    paper_location:
+    result_family:
+    statistic_targets: []
+    expected_input_roles: []
+    expected_scripts_or_modules: []
+    expected_generated_artifacts: []
+    reported_precision:
+    validation_standard:
+    figure_validation_method:
+    closure_condition:

@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0-beta.1",
+  "status": "candidate",
+  "skill": "applied-empirical-replication-v3",
+  "license": "MIT",
+  "minimum_helper_python": "3.10",
+  "source_revision": "2026-09-27-source-semantics-and-diagnostic-boundaries",
+  "source_skill_sha256": "660f3aa53bb90af88c9d70ed128a4ce5c3506f2623d028a148fa3c52a8d257e9",
+  "publication_approved": true,
+  "fresh_session_end_to_end_verified": false,
+  "cross_machine_verified": false
+}

@@ -1,0 +1,15 @@
+paper_type:
+research_question:
+unit_of_observation:
+time_period:
+data_sources: []
+identification_strategy:
+treatment_or_input:
+outcomes: []
+controls: []
+fixed_effects: []
+weights:
+cluster_or_robust_se:
+sample_restrictions: []
+main_estimands: []
+unresolved_specifications: []

@@ -1,0 +1,5 @@
+path
+role
+origin
+hash
+included_in_delivery

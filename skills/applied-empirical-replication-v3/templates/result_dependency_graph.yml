@@ -1,0 +1,8 @@
+result_families:
+  - family_id:
+    description:
+    upstream_families: []
+    required_parent_targets_or_columns: []
+    dependency_evidence:
+    closure_condition:
+    downstream_claims: []

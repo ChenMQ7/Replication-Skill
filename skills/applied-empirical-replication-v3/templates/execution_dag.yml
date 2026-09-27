@@ -1,0 +1,7 @@
+nodes:
+  - node_id:
+    type:
+    path_or_command:
+    inputs: []
+    outputs: []
+edges: []
