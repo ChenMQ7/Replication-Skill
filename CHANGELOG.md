@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0-beta.1 (unreleased)
+## 0.1.0-beta.1
 
 Prepared the first public release candidate from the v3 research workflow.
 
